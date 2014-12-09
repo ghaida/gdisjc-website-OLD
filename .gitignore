@@ -4,3 +4,14 @@ npm-debug.log
 bower_components
 build
 .sass-cache
+
+# Created by https://www.gitignore.io
+
+### Sass ###
+.sass-cache
+*.css.map
+
+
+### Bower ###
+bower_components
+

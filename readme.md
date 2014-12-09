@@ -18,18 +18,20 @@ You'll need the following software installed to get started.
 Clone this repository, where `app` is the name of your app.
 
 ```bash
-git clone https://github.com/zurb/foundation-apps-template.git app
+git clone https://github.com/ghaida/gdisjc-website.git
 ```
 
 Change into the directory.
 
 ```bash
-cd app
+cd gdisjc-website
 ```
 
 Install the dependencies. Running `npm install` will also automatically run `bower install` after. If you're running Mac OS or Linux, you may need to run `sudo npm install` instead, depending on how your machine is configured. Running `bundle` will install the correct version of Sass for the template.
 
 ```bash
+npm install -g foundation-cli bower gulp
+gem install bundler
 npm install
 bower install
 bundle
@@ -38,13 +40,7 @@ bundle
 While you're working on your project, run:
 
 ```bash
-npm start
+foundation-apps watch
 ```
 
 This will compile the Sass and assemble your Angular app. **Now go to `localhost:8080` in your browser to see it in action.**
-
-To run the compiling process once, without watching any files:
-
-```bash
-npm start build
-```

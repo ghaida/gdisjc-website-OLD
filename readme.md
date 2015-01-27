@@ -8,12 +8,19 @@ You'll need the following software installed to get started.
  
  
  
-  * MAC USERS: Install Homebrew from brew.sh
-  * Install NodeJS through Homebrew		
-  		brew install node
+MAC USERS: 
+  * Install Homebrew from brew.sh
+  * Install NodeJS through Homebrew   
+
+ ```bash
+brew install node
+```
   
-  *PC USERS: 
-  * [Node.js](http://nodejs.org): Use the installer provided on the NodeJS website.
+PC USERS: 
+  * Install NodeJS  through the installer provider on the NodeJS website [Node.js](http://nodejs.org)
+  
+
+EVERYONE (MAC & PC USERS):
 
   * [Git](http://git-scm.com/downloads): Use the installer for your OS.
     * Windows users can also try [Git for Windows](http://git-for-windows.github.io/).

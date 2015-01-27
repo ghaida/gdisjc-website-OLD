@@ -5,7 +5,8 @@ This is the GDI San Jose Monthly Study Group project to build a website for the 
 ## Requirements
 
 You'll need the following software installed to get started.
-  *MAC USERS: Install Homebrew from brew.sh
+ 
+ # * MAC USERS: Install Homebrew from brew.sh
   * Install NodeJS through Homebrew		
   		brew install node
   
@@ -19,7 +20,6 @@ You'll need the following software installed to get started.
   * [Gulp](http://gulpjs.com/) and [Bower](http://bower.io): Run `[sudo] npm install -g gulp bower`
 
 ## Get Started
-
 Clone this repository, where `app` is the name of your app.
 
 ```bash

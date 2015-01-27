@@ -6,7 +6,7 @@ This is the GDI San Jose Monthly Study Group project to build a website for the 
 
 You'll need the following software installed to get started.
  
- # * MAC USERS: Install Homebrew from brew.sh
+  * MAC USERS: Install Homebrew from brew.sh
   * Install NodeJS through Homebrew		
   		brew install node
   

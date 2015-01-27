@@ -5,8 +5,13 @@ This is the GDI San Jose Monthly Study Group project to build a website for the 
 ## Requirements
 
 You'll need the following software installed to get started.
-
+  *MAC USERS: Install Homebrew from brew.sh
+  * Install NodeJS through Homebrew		
+  		brew install node
+  
+  *PC USERS: 
   * [Node.js](http://nodejs.org): Use the installer provided on the NodeJS website.
+
   * [Git](http://git-scm.com/downloads): Use the installer for your OS.
     * Windows users can also try [Git for Windows](http://git-for-windows.github.io/).
   * [Ruby](https://www.ruby-lang.org/en/): Use the installer for your OS. For Windows users, [JRuby](http://jruby.org/) is a popular alternative.

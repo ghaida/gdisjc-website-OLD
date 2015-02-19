@@ -86,7 +86,7 @@ gulp.task('uglify-angular', function() {
   var libs = [
     'bower_components/angular/angular.js',
     'bower_components/angular-animate/angular-animate.js',
-    'bower_components/ui-router/release/angular-ui-router.js',
+    'bower_components/angular-ui-router/release/angular-ui-router.js',
     'bower_components/foundation-apps/js/vendor/**/*.js',
     'bower_components/foundation-apps/js/angular/**/*.js'
   ];
